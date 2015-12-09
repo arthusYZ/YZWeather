@@ -1,0 +1,11 @@
+platform :ios,7.0
+
+pod ‘AFNetworking’
+pod ‘SDWebImage’
+pod ‘MJExtension’
+pod ‘MJRefresh’
+pod ‘Masonry’
+pod ‘PNChart’
+pod ‘LBBlurredImage’
+pod ‘FMDB’
+pod ‘MBProgressHUD’

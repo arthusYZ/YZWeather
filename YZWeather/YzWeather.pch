@@ -1,0 +1,50 @@
+//
+//  YzWeather.PCH
+//  YZWeather
+//
+//  Created by 杨舟 on 15/11/12.
+//  Copyright © 2015年 Yang. All rights reserved.
+//
+
+#ifndef YzWeather_PCH
+#define YzWeather_PCH
+// 导航栏标题字体大小
+#define navTitleFont [UIFont boldSystemFontOfSize:20]
+// 导航栏左右按钮字体大小
+#define navItemFont [UIFont systemFontOfSize:14]
+// 更新时间标签字体大小
+#define timefont [UIFont systemFontOfSize:12]
+// aqi按钮字体大小
+#define aqiFont [UIFont systemFontOfSize:12]
+// 温度标签字体大小
+#define tmpfont [UIFont systemFontOfSize:100]
+// 天气状况字体大小
+#define condfont [UIFont systemFontOfSize:20]
+// 湿度风力等公共字体大小
+#define comfont [UIFont systemFontOfSize:15]
+// 每日天气具体显示界面字体大小
+#define dailyForecastfont [UIFont systemFontOfSize:22]
+// 间距
+#define forecastmargin 10
+// 屏幕尺寸
+#define screenSize [UIScreen mainScreen].bounds.size
+// 每日天气时间字体大小
+#define dailyDayfont [UIFont systemFontOfSize:17]
+
+#define white [UIColor whiteColor] 
+
+#define deviderAlpha 0.3
+
+#define RGBA(r, g, b, a)    [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a]
+
+#define MaxTmpLineColor [UIColor colorWithRed:220/255.0 green:130/255.0 blue:130/255.0 alpha:1.0f]
+
+#define MinTmpLineColor [UIColor colorWithRed:155/255.0 green:190/255.0 blue:250/255.0 alpha:1.0f]
+
+#define TagLabelwidth     80
+
+#define LabelHeight    15
+
+#define cityCellMargin 10
+
+#endif /* YzWeather_PCH */

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "34D7EAAD2830F78133EB7117C68231AA19D22941",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "28D1AB9DECB0F5253822CF83F31482DCB4C7F161" : 0,
+    "34D7EAAD2830F78133EB7117C68231AA19D22941" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9E7BAAB8-C00B-4A77-A0EE-94B02FB989BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "28D1AB9DECB0F5253822CF83F31482DCB4C7F161" : "YZWeather\/YZWeather\/",
+    "34D7EAAD2830F78133EB7117C68231AA19D22941" : "YZWeather\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YZWeather",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YZWeather.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arthusYZ\/YZWeather.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "28D1AB9DECB0F5253822CF83F31482DCB4C7F161"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arthusYZ\/YZWeather.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "34D7EAAD2830F78133EB7117C68231AA19D22941"
+    }
+  ]
+}
